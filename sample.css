@@ -1,0 +1,13 @@
+.title2{
+	margin-left: 35%;
+	padding: 50px 0px;
+}
+
+.videos {
+    width: 1170px;
+	padding: 25px 10px;
+	margin: auto;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	display: flex;
+}
